@@ -1,5 +1,9 @@
 # Translation Service
 
+**Offeria — a product by [Al‑Wahha Al‑Sehriya](https://github.com/Al-Wahha-Al-Sehriya).**
+
+[Company website](https://wahasehriya.com/) · [Offeria repositories](https://github.com/offeria-io)
+
 ## Description
 The Translation Service manages multi-language support for the Offeria platform. It stores and retrieves translations for various platform messages, material descriptions, and other user-facing content.
 
